@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"blo",
+				"blog_post_detail_page"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"tem",
+				"template_obj"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"co",
+				"contact_page"
+			],
+			[
+				"a",
+				"about_page"
+			],
+			[
+				"ho",
+				"home_page"
+			],
+			[
+				"S",
+				"Src"
+			],
+			[
+				"DELAY",
+				"DELAY_us"
+			],
+			[
+				"DE",
+				"DELAY"
+			],
+			[
+				"0x",
+				"0xff"
+			],
+			[
+				"TAR",
+				"TARGET_DIR"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/blog/models.py",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/try_django/urls.py",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tutorial_notes.me",
+			"settings":
+			{
+				"buffer_size": 1109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/views.py",
+			"settings":
+			{
+				"buffer_size": 499,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/daniel/dv/try_django",
+		"/home/daniel/dv/try_django/src",
+		"/home/daniel/dv/try_django/src/blog",
+		"/home/daniel/dv/try_django/src/blog/migrations",
+		"/home/daniel/dv/try_django/src/templates",
+		"/home/daniel/dv/try_django/src/try_django"
+	],
+	"file_history":
+	[
+		"/home/daniel/dv/try_django/src/blog/views.py",
+		"/home/daniel/dv/try_django/src/templates/blog_post_detail.html",
+		"/home/daniel/dv/try_django/src/blog/admin.py",
+		"/home/daniel/dv/try_django/src/try_django/settings.py",
+		"/home/daniel/dv/try_django/src/try_django/views.py",
+		"/home/daniel/dv/try_django/src/try_django/urls.py",
+		"/home/daniel/dv/try_django/src/templates/home.html",
+		"/home/daniel/dv/try_django/src/templates/base.html",
+		"/home/daniel/dv/try_django/src/templates/about.html",
+		"/home/daniel/dv/try_django/src/templates/hello_world.html",
+		"/home/daniel/.arduino15/packages/esp32/tools/esptool_py/2.6.1/esptool.py",
+		"/home/daniel/stm32f103c8t6/libopencm3/include/libopencm3/stm32/common/usart_common_f124.h",
+		"/home/daniel/stm32f103c8t6/libopencm3/include/libopencm3/stm32/f1/memorymap.h",
+		"/home/daniel/stm32f103c8t6/libopencm3/include/libopencm3/sam/usart.h",
+		"/home/daniel/stm32f103c8t6/rtos/oled/meter.h",
+		"/home/daniel/stm32f103c8t6/rtos/usbcdcdemo/usbcdc.c",
+		"/home/daniel/stm32f103c8t6/uart/miniprintf.c",
+		"/home/daniel/stm32f103c8t6/libopencm3/include/libopencm3/stm32/common/rcc_common_all.h",
+		"/home/daniel/stm32f103c8t6/libopencm3/lib/lm4f/gpio.c",
+		"/home/daniel/Embedded/MyProjects/DS1820_stm32/Src/main.c",
+		"/home/daniel/Embedded/MyProjects/DS1820_stm32/Makefile",
+		"/home/daniel/Embedded/MyProjects/DS1820_stm32/Src/i2c-lcd.c",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/mbed-os/events/mbed_shared_queues.cpp",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/main.cpp",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/mbed-os/events/EventQueue.h",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/mbed-os/drivers/Serial.h",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/mbed-os/targets/TARGET_STM/PinNamesTypes.h",
+		"/home/daniel/Embedded/Mbed_Projects/Nucleo_rtos_basic/mbed-os/drivers/DigitalOut.h",
+		"/home/daniel/Descargas/Nucleo_rtos_basic/Makefile",
+		"/home/daniel/Descargas/STM32F103C8T6_Hello_GCC/Makefile",
+		"/home/daniel/Descargas/STM32F103C8T6_Hello/makefile.targets",
+		"/home/daniel/Embedded/stm32f103-template/Makefile",
+		"/home/daniel/stlink/Makefile",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDS1820/objects/lcd.asm",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDS1820/Makefile",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDS1820/src/lcd.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDS1820/src/stdutils.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTLCD/src/lcd.c",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTLCD/src/stdutils.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTLCD/objects/TESTLCD.mem",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTI2C/src/pcf8574a.c",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTI2C/src/pcf8574a.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTI2C/objects/main.lst",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTI2C/src/i2c.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTI2C/src/stdutils.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDELAY/src/delay.h",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDELAY/src/main.c",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDELAY2/Makefile",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/TESTDELAY/readme",
+		"/home/daniel/Documentos/MC-51/pas_src/TestDisplay.pas",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/STC89C52RC/Makefile",
+		"/home/daniel/SHARE/SDCC/sdcc-prj-temp/Makefile",
+		"/home/daniel/SHARE/SDCC/sdcc_Workspace/sdcc-prj-temp/Makefile",
+		"/home/daniel/SHARE/MC-51/pas_src/Therm.pas",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/Src SDCC/tg4bitlcd/regc51fx.h",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/Src SDCC/tg4bitlcd/TG_4bitLCD.c",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/A Revisar/top02_pac03/Makefile",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/A Revisar/top02_pac03/Client/Makefile",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/Examples/82c55_blink_c/Makefile",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/Examples/blink_c/blink1.mem",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/Examples/blink_c/blink1.hex",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/sdcc_Workspace/tut1/main.c",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/sdcc_Workspace/sdcc-prj-temp/Makefile",
+		"/home/daniel/SHARE/8051/Fuentes/SDCC/sdcc_Workspace/tut1/main.asm"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/try_django/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1001,
+								1001
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tutorial_notes.me",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1000,
+								1000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "try_django.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

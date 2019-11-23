@@ -1,0 +1,50 @@
+LAST CLASS = 25 QuerySet Lookups
+
+
+# When changes this models check that app is add to setting.py file
+
+#For example 
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'blog', #<---- app added
+]
+
+#With each changes adding class to models.py make sure thal execute
+
+$ python manage.py makemigrations  
+
+#An then
+$ python manage.py migrate
+
+#Example working with mdels
+(try_django) daniel@NBK-PAPI:~/dv/try_django/src$ python manage.py shell
+
+>>> from blog.models import BlogPosts
+>>> obj = BlogPosts()
+>>> obj.title = "This is my title"
+>>> obj.content= "This is my content"
+>>> obj.save()
+>>> exit()
+
+#Try demos object saved in database
+(try_django) daniel@NBK-PAPI:~/dv/try_django/src$ python manage.py shell
+
+>>> from blog.models import BlogPosts
+>>> obj = BlogPosts.objects.get(title='This is my title')
+>>> obj.title
+'This is my title'
+>>> obj.content
+'This is my content'
+>>> 
+
+#Register the model in admin.py add
+
+from .models import model_name
+
+admin.site.register(model_name)
+
